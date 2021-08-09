@@ -21,9 +21,9 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL"
     },
     "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
-    "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_interstitial" : "0",
+    "mode_ads_native_enabled" : false,
+    "mode_ads_rewarded" : "0",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -98,22 +98,6 @@
       "title" : "Test title 6",
       "description" : "",
       "written" : "Test written 6"
-    },
-    {
-      "id" : 7,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 7",
-      "description" : "",
-      "written" : "Test written 7"
-    },
-    {
-      "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 8",
-      "description" : "",
-      "written" : "Test written 8"
     }
   ]
 }
